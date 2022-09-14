@@ -1,0 +1,23 @@
+{
+  "name": "backpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robertorc83/backpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robertorc83/backpack/issues"
+  },
+  "homepage": "https://github.com/Robertorc83/backpack#readme",
+  "bin": { 
+    "bp": "index.js"
+  }
+}
